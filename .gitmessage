@@ -1,0 +1,15 @@
+# Commit Type 선택
+# til:draft      - 오늘 TIL 초안
+# til:goal       - TIL 학습 목표 추가
+# til:study      - TIL 학습 내용 작성
+# til:summary    - 오늘 TIL 마무리
+# docs           - 문서/정리
+# chore          - 설정/파일 경로 변경
+# refactor       - 코드 리팩토링
+
+<type>: (<날짜>) <내용 요약>
+
+# 상세 설명 (선택)
+# - 무엇을 했는지?
+# - 왜 했는지?
+# - 다음 액션은?
